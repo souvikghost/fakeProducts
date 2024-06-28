@@ -1,0 +1,2640 @@
+{
+    "catalogs": [
+        {
+            "id": 82385696,
+            "hero_pid": 281310566,
+            "name": "Aishani Graceful Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 199,
+            "min_product_price": 199,
+            "description": "Aishani Graceful Sarees",
+            "full_details": "Saree Fabric: Georgette\nBlouse: Running Blouse\nBlouse Fabric: Georgette\nNet Quantity (N): Single\nSizes: \nFree Size\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Aishani Graceful Sarees*\nSaree Fabric: Georgette\nBlouse: Running Blouse\nBlouse Fabric: Georgette\nPattern: Printed\nBlouse Pattern: Solid\nNet Quantity (N): Single\nSizes: \nFree Size\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["black","pink"],
+            "fabric":["art silk","cotton Silk"],
+            "discount":["16"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/82385696/cover/1/2/6b7acbbd6dcb3a981a318e16078523f83b016d96f46879f71c8e3dd48eda17b4b3cb18e6138b8409821a77b95b6faafdfd62d380a169ada73489d9d06c138ef7_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/82385696/collages/1/1/6b7acbbd6dcb3a981a318e16078523f83b016d96f46879f71c8e3dd48eda17b4b3cb18e6138b8409821a77b95b6faafdfd62d380a169ada73489d9d06c138ef7.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-05-15 11:31:29",
+            "created_iso": "2023-05-15T11:31:29+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 0,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.9,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 16
+            },
+            "shipping": {
+                "charges": 76,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 76,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 281310566,
+                    "url": "https://images.meesho.com/images/products/281310566/kjws4_512.jpg"
+                }
+            ],
+            "activated": "2023-05-15 16:15:22",
+            "activated_iso": "2023-05-15T16:15:22+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹176 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/4nhgme?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "Anand Sarees, Printed Georgette Saree with Blouse Piece",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/281310566/kjws4_512.jpg"
+            ],
+            "product_id": "4nhgme",
+            "slug": "anand-sarees-printed-georgette-saree-with-blouse-piece",
+            "original_slug": "anand-sarees-printed-georgette-saree-with-blouse-piece",
+            "isAdProduct": false,
+            "original_product_id": 281310566,
+            "catalogId": 82385696
+        },
+        {
+            "id": 90867643,
+            "hero_pid": 312058409,
+            "name": "Alisha Graceful Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 407,
+            "min_product_price": 407,
+            "description": "Alisha Graceful Sarees",
+            "full_details": "Saree Fabric: Jacquard\nBlouse: Variable (Product Dependent)\nBlouse Fabric: Art Silk\nPattern: Colorblocked\nBlouse Pattern: Variable (Product Dependent)\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Alisha Graceful Sarees*\nSaree Fabric: Jacquard\nBlouse: Product Dependent\nBlouse Fabric: Art Silk\nPattern: Solid\nBlouse Pattern: Product Dependent\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["black","red"],
+            "fabric":["bamboo","chanderi silk","cotton linen"],
+            "discount":["36"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 3,
+            "image": "https://images.meesho.com/images/catalogs/90867643/cover/1/2/0c66983b317401c5509ef1474cfb00150b35637f9c9564d283f36ddedf6fad7ec2d7f3e01d47a0f5c53a1d7434e4783fea55fcd90d2f6d5a92c6dc6e5f839332_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/90867643/collages/1/1/0c66983b317401c5509ef1474cfb00150b35637f9c9564d283f36ddedf6fad7ec2d7f3e01d47a0f5c53a1d7434e4783fea55fcd90d2f6d5a92c6dc6e5f839332.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-07-19 10:59:08",
+            "created_iso": "2023-07-19T10:59:08+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 78,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.8,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 29
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [],
+            "gray_tags": [],
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "RE5bcwTBhw8Gs+HcVKlGqw=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 312058409,
+                    "url": "https://images.meesho.com/images/products/312058409/lmfdo_512.jpg"
+                },
+                {
+                    "id": 312058411,
+                    "url": "https://images.meesho.com/images/products/312058411/avapx_512.jpg"
+                },
+                {
+                    "id": 312058410,
+                    "url": "https://images.meesho.com/images/products/312058410/mvltf_512.jpg"
+                }
+            ],
+            "activated": "2023-07-20 10:38:22",
+            "activated_iso": "2023-07-20T10:38:22+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹356 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "return_options",
+                        "amount": 28
+                    },
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/55sht5?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "MAKKAR SAREE -6",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/312058409/lmfdo_512.jpg"
+            ],
+            "product_id": "55sht5",
+            "slug": "makkar-saree-6",
+            "original_slug": "makkar-saree-6",
+            "isAdProduct": true,
+            "original_product_id": 312058409,
+            "catalogId": 90867643
+        },
+        {
+            "id": 120532380,
+            "hero_pid": 409759759,
+            "name": "Chitrarekha Sensational Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 407,
+            "min_product_price": 407,
+            "description": "Chitrarekha Sensational Sarees",
+            "full_details": "Saree Fabric: Jacquard\nBlouse: Running Blouse\nBlouse Fabric: Jacquard\nPattern: Solid\nBlouse Pattern: Same as Border\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Chitrarekha Sensational Sarees*\nSaree Fabric: Chiffon\nBlouse: Separate Blouse Piece\nBlouse Fabric: Cotton Silk\nPattern: Zari Woven\nBlouse Pattern: Printed\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["grey","maroon","Skin"],
+            "fabric":["Cotton","Banarasi Silk","Cotton Silk"],
+            "discount":[],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/120532380/cover/1/2/68f3d82f3f63b8370029fc1b3fb5f94b7c0cda993d7a23e88533c955004368298ba4fc1529df30ce195d1988db59e0f242bd47c4085fcf7c571c714a05a657f5_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/120532380/collages/1/1/68f3d82f3f63b8370029fc1b3fb5f94b7c0cda993d7a23e88533c955004368298ba4fc1529df30ce195d1988db59e0f242bd47c4085fcf7c571c714a05a657f5.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-05-03 12:13:28",
+            "created_iso": "2024-05-03T12:13:28+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 78,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.2,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.2",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 14
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [],
+            "gray_tags": [],
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "mfHX4/Q0DNDci8TBoSqeLg=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 409759759,
+                    "url": "https://images.meesho.com/images/products/409759759/vywo3_512.jpg"
+                }
+            ],
+            "activated": "2024-06-19 10:21:53",
+            "activated_iso": "2024-06-19T10:21:53+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹356 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "return_options",
+                        "amount": 28
+                    },
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/6ryknj?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "aura saree pallavi",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/409759759/vywo3_512.jpg"
+            ],
+            "product_id": "6ryknj",
+            "slug": "aura-saree-pallavi",
+            "original_slug": "aura-saree-pallavi",
+            "isAdProduct": true,
+            "original_product_id": 409759759,
+            "catalogId": 120532380
+        },
+        {
+            "id": 55836372,
+            "hero_pid": 183485185,
+            "name": "Banita Petite Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 349,
+            "min_product_price": 349,
+            "description": "Banita Petite Sarees",
+            "full_details": "Saree Fabric: Net\nBlouse: Separate Blouse Piece\nBlouse Fabric: Art Silk\nPattern: Embroidered\nBlouse Pattern: Solid\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Banita Petite Sarees*\nSaree Fabric: Net\nBlouse: Separate Blouse Piece\nBlouse Fabric: Cotton Silk\nPattern: Embroidered\nBlouse Pattern: Embroidered\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Multicolor","Red","Olive"],
+            "fabric":["Art Silk","Cotton Cambric","Cotton Blend"],
+            "discount":["29"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 11,
+            "image": "https://images.meesho.com/images/catalogs/55836372/cover/1/2/0c16e7ec05b038efa9b2912fb06f302628f3b8617648070205197ac5089d56a6efb4de9c87e69320ff52b894cad18a537a25279df5ce7abf8925f1f386eeb3c8_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/55836372/collages/1/1/0c16e7ec05b038efa9b2912fb06f302628f3b8617648070205197ac5089d56a6efb4de9c87e69320ff52b894cad18a537a25279df5ce7abf8925f1f386eeb3c8.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2022-10-28 16:41:26",
+            "created_iso": "2022-10-28T16:41:26+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 70,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.2,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.2",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 337
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 183485185,
+                    "url": "https://images.meesho.com/images/products/183485185/nt4ef_512.jpg"
+                },
+                {
+                    "id": 183485194,
+                    "url": "https://images.meesho.com/images/products/183485194/1tkd9_512.jpg"
+                },
+                {
+                    "id": 183485193,
+                    "url": "https://images.meesho.com/images/products/183485193/hk6fm_512.jpg"
+                },
+                {
+                    "id": 183485192,
+                    "url": "https://images.meesho.com/images/products/183485192/v8bjb_512.jpg"
+                },
+                {
+                    "id": 183485191,
+                    "url": "https://images.meesho.com/images/products/183485191/65ugz_512.jpg"
+                },
+                {
+                    "id": 183485190,
+                    "url": "https://images.meesho.com/images/products/183485190/p8zr5_512.jpg"
+                },
+                {
+                    "id": 183485189,
+                    "url": "https://images.meesho.com/images/products/183485189/ptbs5_512.jpg"
+                },
+                {
+                    "id": 183485188,
+                    "url": "https://images.meesho.com/images/products/183485188/fgsko_512.jpg"
+                },
+                {
+                    "id": 183485187,
+                    "url": "https://images.meesho.com/images/products/183485187/1qziv_512.jpg"
+                },
+                {
+                    "id": 183485186,
+                    "url": "https://images.meesho.com/images/products/183485186/l7coa_512.jpg"
+                },
+                {
+                    "id": 183485184,
+                    "url": "https://images.meesho.com/images/products/183485184/w57n1_512.jpg"
+                }
+            ],
+            "activated": "2022-10-28 22:05:22",
+            "activated_iso": "2022-10-28T22:05:22+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹324 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 20
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 5
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/318q2p?utm_source=s",
+            "product_attributes": [
+                "Type: Bhagalpuri"
+            ],
+            "hero_product_name": "Haldi Bhagalpuri Embroidered Net Saree With Heavy Blouse (Yellow)",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/183485185/nt4ef_512.jpg"
+            ],
+            "product_id": "318q2p",
+            "slug": "haldi-bhagalpuri-embroidered-net-saree-with-heavy-blouse-yellow",
+            "original_slug": "haldi-bhagalpuri-embroidered-net-saree-with-heavy-blouse-yellow",
+            "isAdProduct": false,
+            "original_product_id": 183485185,
+            "catalogId": 55836372
+        },
+        {
+            "id": 110930521,
+            "hero_pid": 381134989,
+            "name": "Aagyeyi Attractive Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 309,
+            "min_product_price": 309,
+            "description": "Aagyeyi Attractive Sarees",
+            "full_details": "Saree Fabric: Georgette\nBlouse: Variable (Product Dependent)\nBlouse Fabric: Variable (Product Dependent)\nPattern: Printed\nBlouse Pattern: Variable (Product Dependent)\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Aagyeyi Attractive Sarees*\nSaree Fabric: Georgette\nBlouse: Running Blouse\nBlouse Fabric: Georgette\nPattern: Printed\nBlouse Pattern: Product Dependent\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Maroon","White"],
+            "fabric":["Chiffon","Cotton","Cotton Blend"],
+            "discount":["49"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 6,
+            "image": "https://images.meesho.com/images/catalogs/110930521/cover/1/2/80ac7725515a258bf5ebfba432580327881a8e483b96ea5fce68dda36f8a9a31f1c958e1dcf515f89370f9dd67f1add7daadc70709ced21c2d3f227087a095a0_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/110930521/collages/1/1/80ac7725515a258bf5ebfba432580327881a8e483b96ea5fce68dda36f8a9a31f1c958e1dcf515f89370f9dd67f1add7daadc70709ced21c2d3f227087a095a0.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-01-16 10:32:02",
+            "created_iso": "2024-01-16T10:32:02+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 77,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.9,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 21521
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [],
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 381134989,
+                    "url": "https://images.meesho.com/images/products/381134989/ahcxt_512.jpg"
+                },
+                {
+                    "id": 381134994,
+                    "url": "https://images.meesho.com/images/products/381134994/gdnzn_512.jpg"
+                },
+                {
+                    "id": 381134993,
+                    "url": "https://images.meesho.com/images/products/381134993/ue0dj_512.jpg"
+                },
+                {
+                    "id": 381134992,
+                    "url": "https://images.meesho.com/images/products/381134992/5qrfj_512.jpg"
+                },
+                {
+                    "id": 381134991,
+                    "url": "https://images.meesho.com/images/products/381134991/tcfza_512.jpg"
+                },
+                {
+                    "id": 381134990,
+                    "url": "https://images.meesho.com/images/products/381134990/b25fb_512.jpg"
+                }
+            ],
+            "activated": "2024-01-17 12:40:42",
+            "activated_iso": "2024-01-17T12:40:42+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹286 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/6ax1n1?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "Georgette Saree Georgette Ka Saree",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/381134989/ahcxt_512.jpg"
+            ],
+            "product_id": "6ax1n1",
+            "slug": "georgette-saree-georgette-ka-saree",
+            "original_slug": "georgette-saree-georgette-ka-saree",
+            "isAdProduct": false,
+            "original_product_id": 381134989,
+            "catalogId": 110930521
+        },
+        {
+            "id": 16573618,
+            "hero_pid": 62522675,
+            "name": "Aakarsha Attractive Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 489,
+            "min_product_price": 489,
+            "max_product_discount": 5,
+            "original_price": 513,
+            "description": "Aakarsha Attractive Sarees",
+            "full_details": "Saree Fabric: Banarasi Silk\nBlouse: Running Blouse\nBlouse Fabric: Banarasi Silk\nPattern: Woven Design\nBlouse Pattern: Jacquard\nMultipack: Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-3 Days",
+            "share_text": "Catalog Name:*Aakarsha Attractive Sarees*\nSaree Fabric: Banarasi Silk\nBlouse: Product Dependent\nBlouse Fabric: Banarasi Silk\nPattern: Product Dependent\nBlouse Pattern: Product Dependent\nNet Quantity (N): Pack of 2\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Olive","Skin"],
+            "fabric":["Bamboo","Banarasi Silk","Chanderi Cotton"],
+            "discount":[],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 16,
+            "image": "https://images.meesho.com/images/catalogs/16573618/cover/1/2/bfc465ea16dae4514dd556f038680bf07c9b44227abb5227ab57ef5795541d34bfeb831f6bccc61ba3fab1ae595a8abf5b8a73b9041264f5e71ffa6cbd278eb0_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/16573618/collages/1/1/bfc465ea16dae4514dd556f038680bf07c9b44227abb5227ab57ef5795541d34bfeb831f6bccc61ba3fab1ae595a8abf5b8a73b9041264f5e71ffa6cbd278eb0.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2021-11-29 16:54:13",
+            "created_iso": "2021-11-29T16:54:13+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 75,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.8,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 1354
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "O/D8kXx3fcC+iV89H3HKtA=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 62522675,
+                    "url": "https://images.meesho.com/images/products/62522675/0qnjl_512.jpg"
+                },
+                {
+                    "id": 142577918,
+                    "url": "https://images.meesho.com/images/products/142577918/3fkjg_512.jpg"
+                },
+                {
+                    "id": 142578332,
+                    "url": "https://images.meesho.com/images/products/142578332/c8v9u_512.jpg"
+                },
+                {
+                    "id": 142579003,
+                    "url": "https://images.meesho.com/images/products/142579003/f5jck_512.jpg"
+                },
+                {
+                    "id": 62522674,
+                    "url": "https://images.meesho.com/images/products/62522674/id6jt_512.jpg"
+                },
+                {
+                    "id": 62522672,
+                    "url": "https://images.meesho.com/images/products/62522672/zrzvy_512.jpg"
+                },
+                {
+                    "id": 62522673,
+                    "url": "https://images.meesho.com/images/products/62522673/f6ew9_512.jpg"
+                },
+                {
+                    "id": 142578835,
+                    "url": "https://images.meesho.com/images/products/142578835/kzrob_512.jpg"
+                },
+                {
+                    "id": 99457441,
+                    "url": "https://images.meesho.com/images/products/99457441/x25sy_512.jpg"
+                },
+                {
+                    "id": 62522676,
+                    "url": "https://images.meesho.com/images/products/62522676/1jaz6_512.jpg"
+                },
+                {
+                    "id": 99457469,
+                    "url": "https://images.meesho.com/images/products/99457469/ldrsh_512.jpg"
+                },
+                {
+                    "id": 99457468,
+                    "url": "https://images.meesho.com/images/products/99457468/yeang_512.jpg"
+                },
+                {
+                    "id": 99457471,
+                    "url": "https://images.meesho.com/images/products/99457471/4doo0_512.jpg"
+                },
+                {
+                    "id": 62522671,
+                    "url": "https://images.meesho.com/images/products/62522671/x6iny_512.jpg"
+                },
+                {
+                    "id": 99457464,
+                    "url": "https://images.meesho.com/images/products/99457464/gtway_512.jpg"
+                },
+                {
+                    "id": 99457459,
+                    "url": "https://images.meesho.com/images/products/99457459/qo0lz_512.jpg"
+                }
+            ],
+            "activated": "2021-11-30 00:58:52",
+            "activated_iso": "2021-11-30T00:58:52+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹467 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 22
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/1182sz?utm_source=s",
+            "hero_product_name": "Soft Banarasi Silk Saree",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/62522675/0qnjl_512.jpg"
+            ],
+            "product_id": "1182sz",
+            "slug": "soft-banarasi-silk-saree",
+            "original_slug": "soft-banarasi-silk-saree",
+            "isAdProduct": true,
+            "product_attributes": [],
+            "original_product_id": 62522675,
+            "catalogId": 16573618
+        },
+        {
+            "id": 88628302,
+            "hero_pid": 304609934,
+            "name": "Alisha Attractive Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 490,
+            "min_product_price": 490,
+            "description": "Alisha Attractive Sarees",
+            "full_details": "Saree Fabric: Litchi Silk\nBlouse: Running Blouse\nBlouse Fabric: Litchi Silk\nPattern: Woven Design\nBlouse Pattern: Jacquard\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Alisha Attractive Sarees*\nSaree Fabric: Litchi Silk\nBlouse: Running Blouse\nBlouse Fabric: Litchi Silk\nPattern: Woven Design\nBlouse Pattern: Jacquard\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Olive","Skin"],
+            "fabric":["Cotton Cambric","Cotton Linen","Cotton Silk"],
+            "discount":["26"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 12,
+            "image": "https://images.meesho.com/images/catalogs/88628302/cover/1/2/08da57f600042767647cbcc7060b7880a371acf0a0faba94e12bf9b8c16573e1bc3a366805beab2c41a01e4f33f38920c3b0930e7cee29852804cf2c9c6c2d70_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/88628302/collages/1/1/08da57f600042767647cbcc7060b7880a371acf0a0faba94e12bf9b8c16573e1bc3a366805beab2c41a01e4f33f38920c3b0930e7cee29852804cf2c9c6c2d70.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-06-29 09:30:14",
+            "created_iso": "2023-06-29T09:30:14+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 96,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.9,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 263
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "Q1K1uTWZgxsJlWPfrGDVnQ=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 304609934,
+                    "url": "https://images.meesho.com/images/products/304609934/p5ykx_512.jpg"
+                },
+                {
+                    "id": 304609943,
+                    "url": "https://images.meesho.com/images/products/304609943/plmx3_512.jpg"
+                },
+                {
+                    "id": 304609942,
+                    "url": "https://images.meesho.com/images/products/304609942/ppxll_512.jpg"
+                },
+                {
+                    "id": 304609941,
+                    "url": "https://images.meesho.com/images/products/304609941/9rltl_512.jpg"
+                },
+                {
+                    "id": 304609940,
+                    "url": "https://images.meesho.com/images/products/304609940/dx1y4_512.jpg"
+                },
+                {
+                    "id": 304609939,
+                    "url": "https://images.meesho.com/images/products/304609939/srq6o_512.jpg"
+                },
+                {
+                    "id": 304609938,
+                    "url": "https://images.meesho.com/images/products/304609938/qzp6s_512.jpg"
+                },
+                {
+                    "id": 304609937,
+                    "url": "https://images.meesho.com/images/products/304609937/1mw1u_512.jpg"
+                },
+                {
+                    "id": 304609936,
+                    "url": "https://images.meesho.com/images/products/304609936/hjjvt_512.jpg"
+                },
+                {
+                    "id": 304609935,
+                    "url": "https://images.meesho.com/images/products/304609935/jkynk_512.jpg"
+                },
+                {
+                    "id": 304609945,
+                    "url": "https://images.meesho.com/images/products/304609945/nwmru_512.jpg"
+                },
+                {
+                    "id": 304609944,
+                    "url": "https://images.meesho.com/images/products/304609944/7ato6_512.jpg"
+                }
+            ],
+            "activated": "2023-06-29 16:17:30",
+            "activated_iso": "2023-06-29T16:17:30+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹461 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 29
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/51cuj2?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "BANARASI SILK SAREE",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/304609934/p5ykx_512.jpg"
+            ],
+            "product_id": "51cuj2",
+            "slug": "banarasi-silk-saree",
+            "original_slug": "banarasi-silk-saree",
+            "isAdProduct": true,
+            "original_product_id": 304609934,
+            "catalogId": 88628302
+        },
+        {
+            "id": 117804333,
+            "hero_pid": 401668458,
+            "name": "Jivika Pretty Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 296,
+            "min_product_price": 296,
+            "description": "Jivika Pretty Sarees",
+            "full_details": "Saree Fabric: Silk\nBlouse: Running Blouse\nBlouse Fabric: Silk\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.3 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Jivika Pretty Sarees*\nSaree Fabric: Georgette / Chiffon / Art Silk\nBlouse: Running Blouse\nBlouse Fabric: Product Dependent\nPattern: Dyed/ Washed\nBlouse Pattern: Solid\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.3 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["White","Black","Olive","Multicolor"],
+            "fabric":["Chanderi Silk","Chiffon","Cotton","Cotton Blend"],
+            "discount":["16"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 4,
+            "image": "https://images.meesho.com/images/catalogs/117804333/cover/1/2/6d41197f4dd81af3a9885f764953ff5099dddcd731a4105dced9fc63c522b66ff60786685750384d264fbc377aee6725dba3860d42d0d02f83ce5f323e79cadc_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/117804333/collages/1/1/6d41197f4dd81af3a9885f764953ff5099dddcd731a4105dced9fc63c522b66ff60786685750384d264fbc377aee6725dba3860d42d0d02f83ce5f323e79cadc.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-04-01 12:48:27",
+            "created_iso": "2024-04-01T12:48:27+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 77,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 46
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 401668458,
+                    "url": "https://images.meesho.com/images/products/401668458/8vpot_512.jpg"
+                },
+                {
+                    "id": 401668459,
+                    "url": "https://images.meesho.com/images/products/401668459/nk6ex_512.jpg"
+                },
+                {
+                    "id": 401668460,
+                    "url": "https://images.meesho.com/images/products/401668460/qu4q3_512.jpg"
+                },
+                {
+                    "id": 401668461,
+                    "url": "https://images.meesho.com/images/products/401668461/jsrdv_512.jpg"
+                }
+            ],
+            "activated": "2024-04-02 15:26:44",
+            "activated_iso": "2024-04-02T15:26:44+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹273 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/6n55d6?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "Best Silk soft printed saree",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/401668458/8vpot_512.jpg"
+            ],
+            "product_id": "6n55d6",
+            "slug": "best-silk-soft-printed-saree",
+            "original_slug": "best-silk-soft-printed-saree",
+            "isAdProduct": false,
+            "original_product_id": 401668458,
+            "catalogId": 117804333
+        },
+        {
+            "id": 2901597,
+            "hero_pid": 14622890,
+            "name": "Abhisarika Fashionable Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 275,
+            "min_product_price": 275,
+            "description": "Abhisarika Fashionable Sarees",
+            "full_details": "Saree Fabric: Lycra\nBlouse: Running Blouse\nBlouse Fabric: Banarasi Silk\nPattern: Printed\nBlouse Pattern: Solid\nMultipack: Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-3 Days",
+            "share_text": "Catalog Name:*Abhisarika Fashionable Sarees*\nSaree Fabric: Mulmul / Lycra / Satin Silk\nBlouse: Running Blouse\nBlouse Fabric: Product Dependent\nPattern: Printed\nBlouse Pattern: Solid\nNet Quantity (N): Single\nSizes: \nFree Size\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Maroon","Black"],
+            "fabric":["Cotton","Cotton Blend","Cotton Cambric","Cotton Linen","Cotton Silk"],
+            "discount":["56"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 5,
+            "image": "https://images.meesho.com/images/catalogs/2901597/cover/1/2/bdf7b234531680d30a5edc9bffce076e1cfb6067ca0ee8a03db9c1ee8d8ba5d9137a91cc142adc96cb6136a005d7664ac8429143ee942e720abd796496fa65ad_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/2901597/collages/1/1/bdf7b234531680d30a5edc9bffce076e1cfb6067ca0ee8a03db9c1ee8d8ba5d9137a91cc142adc96cb6136a005d7664ac8429143ee942e720abd796496fa65ad.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2020-12-28 17:16:03",
+            "created_iso": "2020-12-28T17:16:03+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 69,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.7,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.7",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 13282
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [],
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 14622890,
+                    "url": "https://images.meesho.com/images/products/14622890/d86e5_512.jpg"
+                },
+                {
+                    "id": 14622895,
+                    "url": "https://images.meesho.com/images/products/14622895/f8488_512.jpg"
+                },
+                {
+                    "id": 14622893,
+                    "url": "https://images.meesho.com/images/products/14622893/9f900_512.jpg"
+                },
+                {
+                    "id": 14622889,
+                    "url": "https://images.meesho.com/images/products/14622889/232e9_512.jpg"
+                },
+                {
+                    "id": 14622887,
+                    "url": "https://images.meesho.com/images/products/14622887/ba08c_512.jpg"
+                }
+            ],
+            "activated": "2021-12-09 00:00:23",
+            "activated_iso": "2021-12-09T00:00:23+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹255 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 20
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/8pf3e?utm_source=s",
+            "product_attributes": [
+                "Type: Half and half"
+            ],
+            "hero_product_name": "Banita Refined Sarees",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/14622890/d86e5_512.jpg"
+            ],
+            "product_id": "8pf3e",
+            "slug": "banita-refined-sarees",
+            "original_slug": "banita-refined-sarees",
+            "isAdProduct": false,
+            "original_product_id": 14622890,
+            "catalogId": 2901597
+        },
+        {
+            "id": 80770785,
+            "hero_pid": 274952113,
+            "name": "Alisha Voguish Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 467,
+            "min_product_price": 467,
+            "max_product_discount": 15,
+            "original_price": 549,
+            "description": "Alisha Voguish Sarees",
+            "full_details": "Saree Fabric: Soft Silk\nBlouse: Running Blouse\nBlouse Fabric: Soft Silk\nPattern: Solid\nBlouse Pattern: Woven Design\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Alisha Voguish Sarees*\nSaree Fabric: Soft Silk\nBlouse: Running Blouse\nBlouse Fabric: Soft Silk\nPattern: Zari Woven\nBlouse Pattern: Product Dependent\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Dark Blue","Skin","Grey"],
+            "fabric":["Art Silk","Bamboo","Banarasi Silk"],
+            "discount":[],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 7,
+            "image": "https://images.meesho.com/images/catalogs/80770785/cover/1/2/e4d889db47e938ac172e43aeea23b1812362f92ea6311e5e690a21d47a1460fdd22ec7216c24c99c513f67a227c612077ee5ac1f8bce84190a9810daacad8314_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/80770785/collages/1/1/e4d889db47e938ac172e43aeea23b1812362f92ea6311e5e690a21d47a1460fdd22ec7216c24c99c513f67a227c612077ee5ac1f8bce84190a9810daacad8314.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-04-27 19:29:20",
+            "created_iso": "2023-04-27T19:29:20+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 97,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 1352
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "n2FmmWKnsn0b1iCuCpZh7w=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 274952113,
+                    "url": "https://images.meesho.com/images/products/274952113/impwk_512.jpg"
+                },
+                {
+                    "id": 274952115,
+                    "url": "https://images.meesho.com/images/products/274952115/0zui1_512.jpg"
+                },
+                {
+                    "id": 274952114,
+                    "url": "https://images.meesho.com/images/products/274952114/lriac_512.jpg"
+                },
+                {
+                    "id": 274952119,
+                    "url": "https://images.meesho.com/images/products/274952119/ugpf5_512.jpg"
+                },
+                {
+                    "id": 274952118,
+                    "url": "https://images.meesho.com/images/products/274952118/hnzvk_512.jpg"
+                },
+                {
+                    "id": 274952117,
+                    "url": "https://images.meesho.com/images/products/274952117/oasbd_512.jpg"
+                },
+                {
+                    "id": 274952116,
+                    "url": "https://images.meesho.com/images/products/274952116/mjlwe_512.jpg"
+                }
+            ],
+            "activated": "2023-06-22 16:24:48",
+            "activated_iso": "2023-06-22T16:24:48+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹414 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 29
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 24
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/4jp6ep?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "Premium Zari work woven Banarasi Saree",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/274952113/impwk_512.jpg"
+            ],
+            "product_id": "4jp6ep",
+            "slug": "premium-zari-work-woven-banarasi-saree",
+            "original_slug": "premium-zari-work-woven-banarasi-saree",
+            "isAdProduct": true,
+            "original_product_id": 274952113,
+            "catalogId": 80770785
+        },
+        {
+            "id": 78196225,
+            "hero_pid": 264936675,
+            "name": "Charvi Fashionable Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 371,
+            "min_product_price": 371,
+            "max_product_discount": 10,
+            "original_price": 411,
+            "description": "Charvi Fashionable Sarees",
+            "full_details": "Saree Fabric: Brocade / Banarasi Silk / Kanjeevaram Silk\nBlouse: Variable (Product Dependent)\nBlouse Fabric: Variable (Product Dependent)\nPattern: Zari Woven\nBlouse Pattern: Variable (Product Dependent)\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.4 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Charvi Fashionable Sarees*\nSaree Fabric: Banarasi Silk / Kanjeevaram Silk / Brocade / Linen\nBlouse: Product Dependent\nBlouse Fabric: Product Dependent\nPattern: Zari Woven\nBlouse Pattern: Same as Border\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.4 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Olive","Red","Grey"],
+            "fabric":["Cotton Silk","Cotton Slub"],
+            "discount":["11"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 9,
+            "image": "https://images.meesho.com/images/catalogs/78196225/cover/1/2/dbd88bce82d0ad0f4705a6495a3c6b29e9732b41b82594981c0111c1e4280011174f0d88d4a624e125046bc1869048e639ed77e60d1935bfd8507095bdd6a747_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/78196225/collages/1/1/dbd88bce82d0ad0f4705a6495a3c6b29e9732b41b82594981c0111c1e4280011174f0d88d4a624e125046bc1869048e639ed77e60d1935bfd8507095bdd6a747.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-04-05 15:18:26",
+            "created_iso": "2023-04-05T15:18:26+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 79,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.9,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 287
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "deal": {
+                "id": 0,
+                "bg_color": "#F64976",
+                "logo_text": "Daily Deals",
+                "name": "",
+                "start_time": 1719325800,
+                "end_time": 1719340199,
+                "server_time": 1719330080,
+                "icon_image": "https://images.meesho.com/images/marketing/1657272929894.png",
+                "text_color": "#F64976",
+                "deal_price": {
+                    "price": 371,
+                    "transient_price": 371,
+                    "shipping": {
+                        "charges": 0
+                    },
+                    "shipping_2": {
+                        "charges": 0
+                    },
+                    "discount": {
+                        "type": "percent",
+                        "amount": 10
+                    },
+                    "original_price": 411
+                },
+                "original_price": {
+                    "price": 403,
+                    "transient_price": 403,
+                    "shipping": {
+                        "charges": 0
+                    },
+                    "shipping_2": {
+                        "charges": 0
+                    }
+                }
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "ytyxVj9c7LEJlWPfrGDVnQ=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 264936675,
+                    "url": "https://images.meesho.com/images/products/264936675/nho8p_512.jpg"
+                },
+                {
+                    "id": 264936682,
+                    "url": "https://images.meesho.com/images/products/264936682/4zc7f_512.jpg"
+                },
+                {
+                    "id": 264936683,
+                    "url": "https://images.meesho.com/images/products/264936683/oyhq1_512.jpg"
+                },
+                {
+                    "id": 264936680,
+                    "url": "https://images.meesho.com/images/products/264936680/bctfb_512.jpg"
+                },
+                {
+                    "id": 264936681,
+                    "url": "https://images.meesho.com/images/products/264936681/zcq3r_512.jpg"
+                },
+                {
+                    "id": 264936678,
+                    "url": "https://images.meesho.com/images/products/264936678/1lrxx_512.jpg"
+                },
+                {
+                    "id": 264936679,
+                    "url": "https://images.meesho.com/images/products/264936679/qnexg_512.jpg"
+                },
+                {
+                    "id": 264936676,
+                    "url": "https://images.meesho.com/images/products/264936676/zkl22_512.jpg"
+                },
+                {
+                    "id": 264936677,
+                    "url": "https://images.meesho.com/images/products/264936677/uqsrj_512.jpg"
+                }
+            ],
+            "activated": "2023-04-06 10:34:19",
+            "activated_iso": "2023-04-06T10:34:19+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹340 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 8
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/4dqig3?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "Get This Beautiful kanjeevaram Silk Saree With Rich Pallu And Stone Work ",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "UP",
+            "images": [
+                "https://images.meesho.com/images/products/264936675/nho8p_512.jpg"
+            ],
+            "product_id": "4dqig3",
+            "slug": "get-this-beautiful-kanjeevaram-silk-saree-with-rich-pallu-and-stone-work",
+            "original_slug": "get-this-beautiful-kanjeevaram-silk-saree-with-rich-pallu-and-stone-work",
+            "isAdProduct": true,
+            "original_product_id": 264936675,
+            "catalogId": 78196225
+        },
+        {
+            "id": 74074165,
+            "hero_pid": 248457336,
+            "name": "Myra Sensational Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 393,
+            "min_product_price": 393,
+            "description": "Myra Sensational Sarees",
+            "full_details": "Saree Fabric: Georgette\nBlouse: Separate Blouse Piece\nBlouse Fabric: Silk\nPattern: Colorblocked\nBlouse Pattern: Solid\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Myra Sensational Sarees*\nSaree Fabric: Georgette\nBlouse: Separate Blouse Piece\nBlouse Fabric: Silk\nPattern: Product Dependent\nBlouse Pattern: Product Dependent\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Pink","White","Maroon"],
+            "fabric":["Art Silk","Banarasi Silk","Chanderi Silk","Cotton Silk"],
+            "discount":["31"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 6,
+            "image": "https://images.meesho.com/images/catalogs/74074165/cover/1/2/beb702e5d43e0f79e4efa75a9ed97757e89fbef76c8f5931e0d10444276a1b30842a4f763ec52252efbbd891c7c2915cc25903298d32c0ec6ec0d5f988ecdec6_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/74074165/collages/1/1/beb702e5d43e0f79e4efa75a9ed97757e89fbef76c8f5931e0d10444276a1b30842a4f763ec52252efbbd891c7c2915cc25903298d32c0ec6ec0d5f988ecdec6.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2023-03-07 15:26:54",
+            "created_iso": "2023-03-07T15:26:54+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 78,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.8,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 1791
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [],
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 248457336,
+                    "url": "https://images.meesho.com/images/products/248457336/nopfx_512.jpg"
+                },
+                {
+                    "id": 248457341,
+                    "url": "https://images.meesho.com/images/products/248457341/dzmx6_512.jpg"
+                },
+                {
+                    "id": 248457340,
+                    "url": "https://images.meesho.com/images/products/248457340/kkroe_512.jpg"
+                },
+                {
+                    "id": 248457339,
+                    "url": "https://images.meesho.com/images/products/248457339/rujzy_512.jpg"
+                },
+                {
+                    "id": 248457338,
+                    "url": "https://images.meesho.com/images/products/248457338/16xyy_512.jpg"
+                },
+                {
+                    "id": 248457337,
+                    "url": "https://images.meesho.com/images/products/248457337/qyvyb_512.jpg"
+                }
+            ],
+            "activated": "2023-03-11 10:22:26",
+            "activated_iso": "2023-03-11T10:22:26+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹365 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 5
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/43xawo?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "georgette saree",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/248457336/nopfx_512.jpg"
+            ],
+            "product_id": "43xawo",
+            "slug": "georgette-saree",
+            "original_slug": "georgette-saree",
+            "isAdProduct": false,
+            "original_product_id": 248457336,
+            "catalogId": 74074165
+        },
+        {
+            "id": 123215049,
+            "hero_pid": 417499701,
+            "name": "Adrika Voguish Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 293,
+            "min_product_price": 293,
+            "description": "Adrika Voguish Sarees",
+            "full_details": "Saree Fabric: Chiffon / Georgette\nBlouse: Separate Blouse Piece\nBlouse Fabric: Chiffon\nPattern: Solid\nBlouse Pattern: Same as Saree\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Adrika Voguish Sarees*\nSaree Fabric: Chiffon / Georgette\nBlouse: Separate Blouse Piece\nBlouse Fabric: Chiffon\nPattern: Printed\nBlouse Pattern: Product Dependent\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["White","Maroon"],
+            "fabric":["Art Silk","Banarasi Silk","Chanderi Silk","Cotton Silk","Cotton Cambric","Cotton Linen"],
+            "discount":["41"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 6,
+            "image": "https://images.meesho.com/images/catalogs/123215049/cover/1/2/1cc21cc0099aee7dcf098bebc1f0906a4281fe961f675ff60a3b5211c1448be529ea480fafd4f3c102a37396795c62e30b15f3ad89ab3fb48af7628657c5523a_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/123215049/collages/1/1/1cc21cc0099aee7dcf098bebc1f0906a4281fe961f675ff60a3b5211c1448be529ea480fafd4f3c102a37396795c62e30b15f3ad89ab3fb48af7628657c5523a.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-06-02 08:57:24",
+            "created_iso": "2024-06-02T08:57:24+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 77,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.1,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.1",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 102
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [],
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 417499701,
+                    "url": "https://images.meesho.com/images/products/417499701/det40_512.jpg"
+                },
+                {
+                    "id": 417499699,
+                    "url": "https://images.meesho.com/images/products/417499699/hfsqy_512.jpg"
+                },
+                {
+                    "id": 417499702,
+                    "url": "https://images.meesho.com/images/products/417499702/zxejn_512.jpg"
+                },
+                {
+                    "id": 417499703,
+                    "url": "https://images.meesho.com/images/products/417499703/yzona_512.jpg"
+                },
+                {
+                    "id": 417499700,
+                    "url": "https://images.meesho.com/images/products/417499700/5jqoa_512.jpg"
+                },
+                {
+                    "id": 417499704,
+                    "url": "https://images.meesho.com/images/products/417499704/9uish_512.jpg"
+                }
+            ],
+            "activated": "2024-06-02 22:35:19",
+            "activated_iso": "2024-06-02T22:35:19+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹270 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/6wkgtx?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "Chiffon Saree",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/417499701/det40_512.jpg"
+            ],
+            "product_id": "6wkgtx",
+            "slug": "chiffon-saree",
+            "original_slug": "chiffon-saree",
+            "isAdProduct": false,
+            "original_product_id": 417499701,
+            "catalogId": 123215049
+        },
+        {
+            "id": 120028835,
+            "hero_pid": 408229137,
+            "name": "Chitrarekha Drishya Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 616,
+            "min_product_price": 616,
+            "description": "Chitrarekha Drishya Sarees",
+            "full_details": "Saree Fabric: Cotton Blend\nBlouse: Running Blouse\nBlouse Fabric: Banarasi Silk\nPattern: Zari Woven\nBlouse Pattern: Jacquard\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Chitrarekha Drishya Sarees*\nSaree Fabric: Cotton Blend\nBlouse: Running Blouse\nBlouse Fabric: Banarasi Silk\nPattern: Zari Woven\nBlouse Pattern: Jacquard\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Pink","Olive"],
+            "fabric":["Art Silk","Bamboo","Banarasi Silk","Chanderi Cotton"],
+            "discount":[],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 5,
+            "image": "https://images.meesho.com/images/catalogs/120028835/cover/1/2/c1853f037a9a8a91f3652c095236a5c7620d1a9aeea05bda6fdca4270ad6fdddb321d6eb56741a2da44c5ea1c0eec21b87c8ebbfa850cd3e17d2e7478764efc1_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/120028835/collages/1/1/c1853f037a9a8a91f3652c095236a5c7620d1a9aeea05bda6fdca4270ad6fdddb321d6eb56741a2da44c5ea1c0eec21b87c8ebbfa850cd3e17d2e7478764efc1.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-04-27 13:43:03",
+            "created_iso": "2024-04-27T13:43:03+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 98,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.1,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.1",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 64
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "45fAErVLdYkb1iCuCpZh7w=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 408229137,
+                    "url": "https://images.meesho.com/images/products/408229137/1xffb_512.jpg"
+                },
+                {
+                    "id": 408229141,
+                    "url": "https://images.meesho.com/images/products/408229141/wmxq3_512.jpg"
+                },
+                {
+                    "id": 408229140,
+                    "url": "https://images.meesho.com/images/products/408229140/fnvjs_512.jpg"
+                },
+                {
+                    "id": 408229139,
+                    "url": "https://images.meesho.com/images/products/408229139/ndhpg_512.jpg"
+                },
+                {
+                    "id": 408229138,
+                    "url": "https://images.meesho.com/images/products/408229138/fub23_512.jpg"
+                }
+            ],
+            "activated": "2024-04-27 18:41:13",
+            "activated_iso": "2024-04-27T18:41:13+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹559 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 29
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 28
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/6r1rm9?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": " Cotton Silk banasari Jacquard Sarees.",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/408229137/1xffb_512.jpg"
+            ],
+            "product_id": "6r1rm9",
+            "slug": "cotton-silk-banasari-jacquard-sarees",
+            "original_slug": "cotton-silk-banasari-jacquard-sarees",
+            "isAdProduct": true,
+            "original_product_id": 408229137,
+            "catalogId": 120028835
+        },
+        {
+            "id": 30298762,
+            "hero_pid": 104925210,
+            "name": "Kashvi Refined Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 241,
+            "min_product_price": 241,
+            "max_product_discount": 10,
+            "original_price": 267,
+            "description": "Kashvi Refined Sarees",
+            "full_details": "Saree Fabric: Cotton\nBlouse: Running Blouse\nBlouse Fabric: Cotton\nPattern: Zari Woven\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.2 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-3 Days",
+            "share_text": "Catalog Name:*Kashvi Refined Sarees*\nSaree Fabric: Cotton\nBlouse: Separate Blouse Piece\nBlouse Fabric: Cotton\nPattern: Printed\nBlouse Pattern: Printed\nNet Quantity (N): Single\nSizes: \nFree Size\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Multicolor","Olive","Black","Red","White"],
+            "fabric":["Cotton Cambric","Cotton Linen","Cotton Silk","Cotton Slub"],
+            "discount":["59"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 8,
+            "image": "https://images.meesho.com/images/catalogs/30298762/cover/1/2/968e848c92d0b7594bae63319672b05f90c404dbac00849c66ce3e4edff086fe6e0fed78e8e9c3b7ea134765eca927c01dcf48a4981827240e106afbeb6f3219_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/30298762/collages/1/1/968e848c92d0b7594bae63319672b05f90c404dbac00849c66ce3e4edff086fe6e0fed78e8e9c3b7ea134765eca927c01dcf48a4981827240e106afbeb6f3219.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2022-04-24 14:45:37",
+            "created_iso": "2022-04-24T14:45:37+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 69,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.7,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.7",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 12620
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "deal": {
+                "id": 0,
+                "bg_color": "#F64976",
+                "logo_text": "Daily Deals",
+                "name": "",
+                "start_time": 1719325800,
+                "end_time": 1719340199,
+                "server_time": 1719330080,
+                "icon_image": "https://images.meesho.com/images/marketing/1657272929894.png",
+                "text_color": "#F64976",
+                "deal_price": {
+                    "price": 241,
+                    "transient_price": 241,
+                    "shipping": {
+                        "charges": 0
+                    },
+                    "shipping_2": {
+                        "charges": 0
+                    },
+                    "discount": {
+                        "type": "percent",
+                        "amount": 10
+                    },
+                    "original_price": 267
+                },
+                "original_price": {
+                    "price": 260,
+                    "transient_price": 260,
+                    "shipping": {
+                        "charges": 0
+                    },
+                    "shipping_2": {
+                        "charges": 0
+                    }
+                }
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 104925210,
+                    "url": "https://images.meesho.com/images/products/104925210/cu3mj_512.jpg"
+                },
+                {
+                    "id": 104925207,
+                    "url": "https://images.meesho.com/images/products/104925207/devov_512.jpg"
+                },
+                {
+                    "id": 104925209,
+                    "url": "https://images.meesho.com/images/products/104925209/ldwyw_512.jpg"
+                },
+                {
+                    "id": 104925208,
+                    "url": "https://images.meesho.com/images/products/104925208/5x9i4_512.jpg"
+                },
+                {
+                    "id": 104925211,
+                    "url": "https://images.meesho.com/images/products/104925211/udd7m_512.jpg"
+                },
+                {
+                    "id": 104925213,
+                    "url": "https://images.meesho.com/images/products/104925213/675oj_512.jpg"
+                },
+                {
+                    "id": 104925212,
+                    "url": "https://images.meesho.com/images/products/104925212/dhc5r_512.jpg"
+                },
+                {
+                    "id": 104925214,
+                    "url": "https://images.meesho.com/images/products/104925214/tjtbu_512.jpg"
+                }
+            ],
+            "activated": "2022-04-24 20:09:48",
+            "activated_iso": "2022-04-24T20:09:48+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹217 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 20
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 4
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/1qgwt6?utm_source=s",
+            "product_attributes": [
+                "Type: No Type"
+            ],
+            "hero_product_name": "Navsarjan BRASSO COTTON BLACK saree WITH BLOUSE AND PALLU ",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/104925210/cu3mj_512.jpg"
+            ],
+            "product_id": "1qgwt6",
+            "slug": "navsarjan-brasso-cotton-black-saree-with-blouse-and-pallu",
+            "original_slug": "navsarjan-brasso-cotton-black-saree-with-blouse-and-pallu",
+            "isAdProduct": false,
+            "original_product_id": 104925210,
+            "catalogId": 30298762
+        },
+        {
+            "id": 110184275,
+            "hero_pid": 378778885,
+            "name": "Abhisarika Attractive Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 467,
+            "min_product_price": 467,
+            "max_product_discount": 15,
+            "original_price": 549,
+            "description": "Abhisarika Attractive Sarees",
+            "full_details": "Saree Fabric: Soft Silk\nBlouse: Running Blouse\nBlouse Fabric: Soft Silk\nPattern: Solid\nBlouse Pattern: Woven Design\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Abhisarika Attractive Sarees*\nSaree Fabric: Soft Silk\nBlouse: Running Blouse\nBlouse Fabric: Soft Silk\nPattern: Product Dependent\nBlouse Pattern: Solid\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Multicolor","Olive","Grey"],
+            "fabric":["Cotton Cambric","Cotton Linen","Cotton Silk","Cotton Slub"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 6,
+            "image": "https://images.meesho.com/images/catalogs/110184275/cover/1/2/b29a64548e0e47ae04c4ef518c31de39dd98d3d0699eca28afcd9e223f352472b4f5d89a0c01c503873d99889b76eb976a359a522eff2622c1f7ae52ada21ec8_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/110184275/collages/1/1/b29a64548e0e47ae04c4ef518c31de39dd98d3d0699eca28afcd9e223f352472b4f5d89a0c01c503873d99889b76eb976a359a522eff2622c1f7ae52ada21ec8.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-01-07 15:53:43",
+            "created_iso": "2024-01-07T15:53:43+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 97,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.9,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 255
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "93fcbAHyX0Ub1iCuCpZh7w=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 378778885,
+                    "url": "https://images.meesho.com/images/products/378778885/gqqc2_512.jpg"
+                },
+                {
+                    "id": 378778887,
+                    "url": "https://images.meesho.com/images/products/378778887/mr23h_512.jpg"
+                },
+                {
+                    "id": 378778886,
+                    "url": "https://images.meesho.com/images/products/378778886/ejgs9_512.jpg"
+                },
+                {
+                    "id": 378778890,
+                    "url": "https://images.meesho.com/images/products/378778890/j5s0u_512.jpg"
+                },
+                {
+                    "id": 378778889,
+                    "url": "https://images.meesho.com/images/products/378778889/sojyr_512.jpg"
+                },
+                {
+                    "id": 378778888,
+                    "url": "https://images.meesho.com/images/products/378778888/9fouq_512.jpg"
+                }
+            ],
+            "activated": "2024-01-08 12:59:00",
+            "activated_iso": "2024-01-08T12:59:00+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹438 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 29
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/69ijnp?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "Premium Zari work woven Banarasi  Saree ",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/378778885/gqqc2_512.jpg"
+            ],
+            "product_id": "69ijnp",
+            "slug": "premium-zari-work-woven-banarasi-saree",
+            "original_slug": "premium-zari-work-woven-banarasi-saree",
+            "isAdProduct": true,
+            "original_product_id": 378778885,
+            "catalogId": 110184275
+        },
+        {
+            "id": 59878054,
+            "hero_pid": 197259138,
+            "name": "Charvi Drishya Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 407,
+            "min_product_price": 407,
+            "description": "Charvi Drishya Sarees",
+            "full_details": "Saree Fabric: Brocade\nBlouse: Running Blouse\nBlouse Fabric: Brocade\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.4 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Charvi Drishya Sarees*\nSaree Fabric: Brocade\nBlouse: Running Blouse\nBlouse Fabric: Brocade\nPattern: Product Dependent\nBlouse Pattern: Product Dependent\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.4 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Pink","Red","Olive"],
+            "fabric":["Chanderi Silk","Chiffon","Cotton","Cotton Blend"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 7,
+            "image": "https://images.meesho.com/images/catalogs/59878054/cover/1/2/654eb2cec43d145fc56a2e5e39c35a6c9f11e984df87c6c83741a82e9b10d02baa52b3f50fe5aee641b97eb890fa4ae1211489d51b0e64bf435004524be31d9d_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/59878054/collages/1/1/654eb2cec43d145fc56a2e5e39c35a6c9f11e984df87c6c83741a82e9b10d02baa52b3f50fe5aee641b97eb890fa4ae1211489d51b0e64bf435004524be31d9d.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2022-11-25 10:02:25",
+            "created_iso": "2022-11-25T10:02:25+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 78,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.8,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 211
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "ytyxVj9c7LEJlWPfrGDVnQ=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 197259138,
+                    "url": "https://images.meesho.com/images/products/197259138/saenm_512.jpg"
+                },
+                {
+                    "id": 197259139,
+                    "url": "https://images.meesho.com/images/products/197259139/0kz5f_512.jpg"
+                },
+                {
+                    "id": 197259141,
+                    "url": "https://images.meesho.com/images/products/197259141/qs3q0_512.jpg"
+                },
+                {
+                    "id": 197259140,
+                    "url": "https://images.meesho.com/images/products/197259140/17gyb_512.jpg"
+                },
+                {
+                    "id": 197259143,
+                    "url": "https://images.meesho.com/images/products/197259143/nchvc_512.jpg"
+                },
+                {
+                    "id": 197259142,
+                    "url": "https://images.meesho.com/images/products/197259142/kxk3v_512.jpg"
+                },
+                {
+                    "id": 197259144,
+                    "url": "https://images.meesho.com/images/products/197259144/lxvuu_512.jpg"
+                }
+            ],
+            "activated": "2022-11-25 16:05:23",
+            "activated_iso": "2022-11-25T16:05:23+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹356 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "return_options",
+                        "amount": 28
+                    },
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/39fy4i?utm_source=s",
+            "product_attributes": [
+                "net quantity (n): single"
+            ],
+            "hero_product_name": "Banarasi Brocade With Rich Pallu",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "UP",
+            "images": [
+                "https://images.meesho.com/images/products/197259138/saenm_512.jpg"
+            ],
+            "product_id": "39fy4i",
+            "slug": "banarasi-brocade-with-rich-pallu",
+            "original_slug": "banarasi-brocade-with-rich-pallu",
+            "isAdProduct": true,
+            "original_product_id": 197259138,
+            "catalogId": 59878054
+        },
+        {
+            "id": 63654927,
+            "hero_pid": 210516407,
+            "name": "Aagyeyi Attractive Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 433,
+            "min_product_price": 433,
+            "description": "Aagyeyi Attractive Sarees",
+            "full_details": "Saree Fabric: Dola Silk\nBlouse: Running Blouse\nBlouse Fabric: Dola Silk\nPattern: Variable (Product Dependent)\nBlouse Pattern: Embroidered\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Aagyeyi Attractive Sarees*\nSaree Fabric: Dola Silk\nBlouse: Running Blouse\nBlouse Fabric: Dola Silk\nPattern: Embroidered\nBlouse Pattern: Same as Border\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Orange","Grey"],
+            "fabric":["Banarasi Silk","Chanderi Cotton","Chanderi Silk"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 5,
+            "image": "https://images.meesho.com/images/catalogs/63654927/cover/1/2/e80c648718f6ece86793d8610bdffb69166c385f72f6f6a2756db1c9c4f10a7135128ae3470208e9fc6706d2bacc8d90ff3b2bb3115c8f56bcb444dce874dd6c_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/63654927/collages/1/1/e80c648718f6ece86793d8610bdffb69166c385f72f6f6a2756db1c9c4f10a7135128ae3470208e9fc6706d2bacc8d90ff3b2bb3115c8f56bcb444dce874dd6c.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2022-12-21 16:19:39",
+            "created_iso": "2022-12-21T16:19:39+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 79,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 127
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 210516407,
+                    "url": "https://images.meesho.com/images/products/210516407/wsbil_512.jpg"
+                },
+                {
+                    "id": 210516408,
+                    "url": "https://images.meesho.com/images/products/210516408/b11rg_512.jpg"
+                },
+                {
+                    "id": 210516409,
+                    "url": "https://images.meesho.com/images/products/210516409/0wyhq_512.jpg"
+                },
+                {
+                    "id": 210516410,
+                    "url": "https://images.meesho.com/images/products/210516410/zpx4e_512.jpg"
+                },
+                {
+                    "id": 210516406,
+                    "url": "https://images.meesho.com/images/products/210516406/rcda9_512.jpg"
+                }
+            ],
+            "activated": "2022-12-21 22:05:30",
+            "activated_iso": "2022-12-21T22:05:30+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹410 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 23
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/3hc3hz?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "embroidery sarees",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/210516407/wsbil_512.jpg"
+            ],
+            "product_id": "3hc3hz",
+            "slug": "embroidery-sarees",
+            "original_slug": "embroidery-sarees",
+            "isAdProduct": false,
+            "original_product_id": 210516407,
+            "catalogId": 63654927
+        },
+        {
+            "id": 1241241,
+            "hero_pid": 7648260,
+            "name": "Adrika Graceful Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 754,
+            "min_product_price": 754,
+            "description": "Adrika Graceful Sarees",
+            "full_details": "Saree Fabric: Banarasi Silk\nBlouse: Separate Blouse Piece\nBlouse Fabric: Banarasi Silk\nPattern: Zari Woven\nBlouse Pattern: Zari Woven\nMultipack: Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-3 Days",
+            "share_text": "Catalog Name:*Adrika Graceful Sarees*\nSaree Fabric: Banarasi Silk\nBlouse: Separate Blouse Piece\nBlouse Fabric: Banarasi Silk\nPattern: Zari Woven\nNet Quantity (N): Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Grey","Red","Multicolor"],
+            "fabric":["Banarasi Silk","Bamboo"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 5,
+            "image": "https://images.meesho.com/images/catalogs/1241241/cover/1/2/a1c39d641083c65dda6d79ee1be37fcffc48f186c95ddd6d91573fa9d393bca1256c9cf70bbd144c3d673ba9c658fd3f32dfce982a6ac84f7e81cf1e942c02fb_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/1241241/collages/1/1/a1c39d641083c65dda6d79ee1be37fcffc48f186c95ddd6d91573fa9d393bca1256c9cf70bbd144c3d673ba9c658fd3f32dfce982a6ac84f7e81cf1e942c02fb.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2020-08-11 16:20:49",
+            "created_iso": "2020-08-11T16:20:49+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 100,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.8,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 180
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [],
+            "gray_tags": [],
+            "ad": {
+                "active": true,
+                "tag": "Ad",
+                "metadata": "d4TQtpk6b8kT4Tmgvr81NA=="
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 7648260,
+                    "url": "https://images.meesho.com/images/products/7648260/26860_512.jpg"
+                },
+                {
+                    "id": 7648261,
+                    "url": "https://images.meesho.com/images/products/7648261/336bd_512.jpg"
+                },
+                {
+                    "id": 7648257,
+                    "url": "https://images.meesho.com/images/products/7648257/6c2a7_512.jpg"
+                },
+                {
+                    "id": 7648258,
+                    "url": "https://images.meesho.com/images/products/7648258/fcb6c_512.jpg"
+                },
+                {
+                    "id": 7648259,
+                    "url": "https://images.meesho.com/images/products/7648259/54e52_512.jpg"
+                }
+            ],
+            "activated": "2020-08-13 00:44:28",
+            "activated_iso": "2020-08-13T00:44:28+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹711 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 29
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 14
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/4jxfo?utm_source=s",
+            "product_attributes": [
+                "Net Quantity (N): Single"
+            ],
+            "hero_product_name": "ivika Zari Woven Silk Sarees ",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/7648260/26860_512.jpg"
+            ],
+            "product_id": "4jxfo",
+            "slug": "ivika-zari-woven-silk-sarees",
+            "original_slug": "ivika-zari-woven-silk-sarees",
+            "isAdProduct": true,
+            "original_product_id": 7648260,
+            "catalogId": 1241241
+        },
+        {
+            "id": 17236132,
+            "hero_pid": 64593809,
+            "name": "Adrika Refined Sarees",
+            "category_id": 1004,
+            "sub_sub_category_name": "Sarees",
+            "min_catalog_price": 257,
+            "min_product_price": 257,
+            "description": "Adrika Refined Sarees",
+            "full_details": "Saree Fabric: Georgette\nBlouse: Running Blouse\nBlouse Fabric: Georgette\nPattern: Printed\nBlouse Pattern: Printed\nMultipack: Single\nSizes: \nFree Size (Saree Length Size: 5.5 m, Blouse Length Size: 0.8 m) \n\nDispatch: 2-3 Days",
+            "share_text": "Catalog Name:*Adrika Refined Sarees*\nSaree Fabric: Georgette\nBlouse: Separate Blouse Piece\nBlouse Fabric: Georgette\nPattern: Printed\nBlouse Pattern: Printed\nNet Quantity (N): Single\nSizes: \nFree Size\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "color":["Pink","Blue","Multicolor","Brown"],
+            "fabric":["Cotton Linen","Cotton Silk","Cotton Slub"],
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 7,
+            "image": "https://images.meesho.com/images/catalogs/17236132/cover/1/2/a4cd7e7943d572da68ef9260a6e31a5a32ff3026f4104ebea7f02828fe6a02139c90a759038274c1a4d7b99b5158f49dc042603543164734fad41c63eeffd689_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/17236132/collages/1/1/a4cd7e7943d572da68ef9260a6e31a5a32ff3026f4104ebea7f02828fe6a02139c90a759038274c1a4d7b99b5158f49dc042603543164734fad41c63eeffd689.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2021-12-09 18:08:08",
+            "created_iso": "2021-12-09T18:08:08+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "shipping_charges_adjustment": 68,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.8,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 1565
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 64593809,
+                    "url": "https://images.meesho.com/images/products/64593809/g86ao_512.jpg"
+                },
+                {
+                    "id": 64593807,
+                    "url": "https://images.meesho.com/images/products/64593807/b2hvd_512.jpg"
+                },
+                {
+                    "id": 107375774,
+                    "url": "https://images.meesho.com/images/products/107375774/2fcf4_512.jpg"
+                },
+                {
+                    "id": 64593808,
+                    "url": "https://images.meesho.com/images/products/64593808/yo2iw_512.jpg"
+                },
+                {
+                    "id": 64593811,
+                    "url": "https://images.meesho.com/images/products/64593811/hgmed_512.jpg"
+                },
+                {
+                    "id": 64593810,
+                    "url": "https://images.meesho.com/images/products/64593810/79vyv_512.jpg"
+                },
+                {
+                    "id": 64593812,
+                    "url": "https://images.meesho.com/images/products/64593812/tbvfd_512.jpg"
+                }
+            ],
+            "activated": "2021-12-10 06:18:38",
+            "activated_iso": "2021-12-10T06:18:38+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹237 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 20
+                    }
+                ]
+            },
+            "consumer_share_text": "Shop now on Meesho! \nhttps://www.meesho.com/s/p/12ggwh?utm_source=s",
+            "product_attributes": [
+                "Color: Blue"
+            ],
+            "hero_product_name": "Blue Georgette Floral Printed Daily Wear Saree With Unstitched Blouse",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "images": [
+                "https://images.meesho.com/images/products/64593809/g86ao_512.jpg"
+            ],
+            "product_id": "12ggwh",
+            "slug": "blue-georgette-floral-printed-daily-wear-saree-with-unstitched-blouse",
+            "original_slug": "blue-georgette-floral-printed-daily-wear-saree-with-unstitched-blouse",
+            "isAdProduct": false,
+            "original_product_id": 64593809,
+            "catalogId": 17236132
+        }
+    ]
+}
